@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa049620-c369-45d3-bbe5-47ca959c5ae4" name="Changes" comment="">
+    <list default="true" id="fa049620-c369-45d3-bbe5-47ca959c5ae4" name="Changes" comment="&quot;Initial commit: Лабораторная работа 1 - Калькулятор&quot;">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lab1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/settings.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/studentsun12/lab1-calculator.git",
+    "accountId": "dae70d6b-1ce5-45f5-bcd6-60a6371d133e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -54,7 +49,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -77,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1761301543327</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Initial commit: Лабораторная работа 1 - Калькулятор&quot;">
+      <option name="closed" value="true" />
+      <created>1761307108176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761307108176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Initial commit: Лабораторная работа 1 - Калькулятор&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial commit: Лабораторная работа 1 - Калькулятор&quot;" />
   </component>
 </project>
