@@ -1,0 +1,8 @@
+# Requirements for Калькулятор для первой лабораторной работы
+# Python version
+python>=3.12
+# Project metadata
+name=calculator-project
+version=1.0.0
+description="Графический калькулятор для первой лабораторной работы"
+author=Student
